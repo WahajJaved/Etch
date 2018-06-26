@@ -84,3 +84,4 @@ button = document.querySelector('#colorButton');
 button.addEventListener("click", changeColor);
 init();
 attachHandlers();
+
